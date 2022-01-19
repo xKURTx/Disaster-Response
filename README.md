@@ -3,7 +3,7 @@
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Project Motivation](#project summary)
+2. [Project Summary](#summary)
 3. [File Descriptions](#files)
 4. [Instructions](#instructions)
 5. [Results](#results)
@@ -13,7 +13,7 @@
 
 The code should run with no issues using Python versions 3.* with the following packages: json, plotly, numpy, pandas, nltk, flask, sklearn, sys, re, pickle and sqlalchem.
 
-## Project Summary<a name="project summary"></a>
+## Project Summary<a name="summary"></a>
 
 This project is webb app that uses a machine learning pipeline to categorize these disaster relief messages so that new messages can be sent to the appropriate disaster relief agency. An emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
 
@@ -44,6 +44,10 @@ run.py: The web app.
 The data provided was highly unbalanced. Most of the existing catagories provided were in the related category (related, air_related, weather_related), accounting for roughly 77% of the categorized data. Many of the catagories had only a few positive classifications. Based on the unbalanced data, the accuracy for all catagories is high (above 90% for most categories). The model simply predicts that the messages do not fall into these categories and since the majority of messages do not, this results in high accuracy. However, the proportion of positive examples that were correctly classified (recall) tends to be low since there simply isn't enough positive casses to train the model.
 
 ![newplot](https://user-images.githubusercontent.com/91521736/150093300-ab54a06e-9c96-44bd-858f-3f0cbee32e7d.png)
+
+![newplot](https://user-images.githubusercontent.com/91521736/150098464-47f6fceb-483b-47b4-8bb2-d6c90bcd084b.png)
+
+![newplot (1)](https://user-images.githubusercontent.com/91521736/150098670-5269054a-e3b8-49d5-9a94-8adde1a672cf.png)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
