@@ -1,4 +1,4 @@
-# Disaster-Response Webb App
+# Disaster-Response Web App
 
 ### Table of Contents
 
