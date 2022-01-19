@@ -49,6 +49,8 @@ The data provided was highly unbalanced. Most of the existing catagories provide
 
 ![newplot (2)](https://user-images.githubusercontent.com/91521736/150099161-f10b9941-c2b0-4d76-ba0d-ded8b99f434b.png)
 
+![image](https://user-images.githubusercontent.com/91521736/150102233-99a73e37-6a8a-424f-b84a-7715c0f55bfd.png)
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Code templates and data were provided by Udacity.
