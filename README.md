@@ -21,7 +21,7 @@ This project is a web app that uses a machine learning pipeline to categorize di
 
 process_data.py: This is an ETL pipeline. This takes as its input csv files containing message data and message categories, merges the message data and message categories, cleans the merged data and saves the merged data to a SQLite database.
 
-train_classifier.py: This is an MTL pipeline. This takes the SQLite database produced by process_data.py as input and uses the data to train and tune a ML model for categorizing messages. The output is a pickle file containing the fitted model. The model uses a k-nearest neighbor algorithm to classify the data. A gridsearch was used to find the optimal number of k neighbors. Given the limited amount of computation and time, the gridsearch simply compares 5 and 10 neighbors.
+train_classifier.py: This is an ML pipeline. This takes the SQLite database produced by process_data.py as input and uses the data to train and tune a ML model for categorizing messages. The output is a pickle file containing the fitted model. The model uses a k-nearest neighbor algorithm to classify the data. A gridsearch was used to find the optimal number of k neighbors. Given the limited amount of computation and time, the gridsearch simply compares 5 and 10 neighbors.
 
 run.py: The web app.
 
