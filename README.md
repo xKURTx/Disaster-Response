@@ -41,7 +41,7 @@ run.py: The web app.
 
 ## Results
 
-The data provided was highly unbalanced. Most of the existing catagories provided were in the related category (related, air_related, weather_related), accounting for roughly 77% of the categorized data. Many of the catagories had only a few positive classifications. Due to the unbalanced data, the accuracy for all catagories is high (above 90% for most categories), since the model simply predicts that the messages do not fall into these categories and since the majority of messages do not, this results in high accuracy. However, the proportion of positive examples that were correctly classified (recall) tends to be low since there simply isn't enough positive casses to train the model.
+The data provided was highly unbalanced. Most of the existing catagories provided were in the related category (related, air_related, weather_related), accounting for roughly 77% of the categorized data. Many of the catagories had only a few positive classifications. Due to the unbalanced data, the accuracy for all catagories is high (above 90% for most categories), since the model simply predicts that the messages do not fall into these categories and since the majority of messages do not, this results in high accuracy. However, the proportion of positive examples that were correctly classified (recall) tends to be low since there simply isn't enough positive cases to train the model.
 
 ![newplot](https://user-images.githubusercontent.com/91521736/150093300-ab54a06e-9c96-44bd-858f-3f0cbee32e7d.png)
 
