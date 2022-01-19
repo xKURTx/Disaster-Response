@@ -15,7 +15,7 @@ The code should run with no issues using Python versions 3.* with the following 
 
 ## Project Summary<a name="summary"></a>
 
-This project is webb app that uses a machine learning pipeline to categorize these disaster relief messages so that new messages can be sent to the appropriate disaster relief agency. An emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
+This project is a web app that uses a machine learning pipeline to categorize disaster relief messages so that new messages can be sent to the appropriate disaster relief agency. An emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
 
 ## File Descriptions <a name="files"></a>
 
