@@ -45,9 +45,9 @@ The data provided was highly unbalanced. Most of the existing catagories provide
 
 ![newplot](https://user-images.githubusercontent.com/91521736/150093300-ab54a06e-9c96-44bd-858f-3f0cbee32e7d.png)
 
-![newplot](https://user-images.githubusercontent.com/91521736/150098464-47f6fceb-483b-47b4-8bb2-d6c90bcd084b.png)
-
 ![newplot (1)](https://user-images.githubusercontent.com/91521736/150098670-5269054a-e3b8-49d5-9a94-8adde1a672cf.png)
+
+![newplot (2)](https://user-images.githubusercontent.com/91521736/150099161-f10b9941-c2b0-4d76-ba0d-ded8b99f434b.png)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
